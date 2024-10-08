@@ -1,0 +1,11 @@
+default:
+  outputs:
+    dev:
+      type: bigquery
+      method: service-account
+      project: academy2024
+      threads: 4
+      keyfile: /Users/rafaelabertuol/Desktop/ACADEMY/academy2024-e918da5d669f.json
+      location: US
+  target: dev
+  
