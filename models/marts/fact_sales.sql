@@ -65,6 +65,7 @@ with
             , salesorderdetail.unitprice
             , salesorderdetail.orderqty
             , salesorderdetail.subtotal
+            , salesorderdetail.subtotal_with_discounts
             , salesorderheader.order_status
             , salesorderheader.ordered_online
             , dates.date as order_date

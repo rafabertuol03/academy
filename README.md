@@ -27,7 +27,6 @@ All the schemas, tables and interactions can also be checked [HERE](https://raw.
 - Staging (stg): in the staging layer, raw tables were refined by adjusting data types, reorganizing column positions, and renaming fields for consistency.
 - Dimensions (dim): dimension tables were crafted to describe and contextualize the data within the fact table, following a star schema to support effective relationships in Power BI.
 - Fact Table (fact): the fact table consolidates the core data, providing direct answers to the business questions and incorporating essential IDs for seamless future connections.
-- Aggregations (aggs): aggregated tables were designed to enhance processing efficiency and facilitate deeper analytical insights for Data Science.
 
 Each table created within this project undergoes rigorous testing to ensure the highest data quality.
 

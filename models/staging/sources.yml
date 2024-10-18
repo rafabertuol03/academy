@@ -144,8 +144,10 @@ sources:
           - name: unitpricediscount
             description: "Discount amount"
           - name: subtotal
+            description: "Total value of the sale"
+          - name: subtotal_with_discounts
             description: "Total value of the sale, including discounts"
-            
+ 
       - name: salesorderheader
         description: "General sales order information"
         columns:

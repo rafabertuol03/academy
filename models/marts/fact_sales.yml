@@ -56,6 +56,11 @@ models:
           - not_null
 
       - name: subtotal
+        description: "The total of sale, without tax and freight"
+        tests:
+          - not_null
+
+      - name: subtotal_with_discounts
         description: "The total of sale, including product discounts, without tax and freight"
         tests:
           - not_null
@@ -74,4 +79,3 @@ models:
         description: "The date when the sales order was placed"
         tests:
           - not_null
-          
