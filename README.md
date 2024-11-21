@@ -55,7 +55,7 @@ Click [HERE](https://drive.google.com/file/d/1PM196Su0wIPMH0ivgH-Fllx6P-5cO7pG/v
 
 
 
-# Project Report:
+## Project Report:
 
 This report provides a comprehensive overview of the entire data project developed for Adventure Works.
 
@@ -64,3 +64,10 @@ It details each phase of the project, including data modeling, dashboard develop
 Explore the report to gain insights into the processes and decisions that shaped the final solution.
 
 Click [HERE](https://drive.google.com/file/d/1Nf3E6uGHbLXozzNAYa3AHAizXZQhpfvE/view?usp=sharing) to read the report. 
+
+
+## Project Overview Video
+
+This video provides an overview of the data project developed for Adventure Works. 
+
+Click [HERE](https://youtu.be/qBoikxUxzT8) to watch it. 
