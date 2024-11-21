@@ -41,3 +41,14 @@ The links below provide access to key visualizations, including:
 [Star Schema Model](https://drive.google.com/file/d/1ywjyMx2uTr-E-vnB7tvFB_Lzz037REue/view?usp=sharing): a representation of the star schema used in the data warehouse, showing the relationships between fact and dimension tables.
 
 [dbt Lineage](https://drive.google.com/file/d/13A3XZsfcFnn6ceJK7t7RHeNhovB2Mvpv/view?usp=sharing): a visualization of the data lineage within the dbt project, illustrating how data flows through the transformation pipeline.
+
+## Power BI Dashboard File
+
+This Power BI file includes a dashboard designed for Adventure Works:
+
+- **CEO Report**: Focused on high-level managerial insights, providing the CEO with critical data to drive strategic decisions.
+- **Operational Reports**: Detailed views of customer data, order metrics, and serviced regions, supporting operational analysis and decision-making.
+
+Access the file to explore the dashboard and the insights it offers.
+
+https://drive.google.com/file/d/1PM196Su0wIPMH0ivgH-Fllx6P-5cO7pG/view?usp=drive_link 
