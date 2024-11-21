@@ -32,6 +32,7 @@ Each table created within this project undergoes rigorous testing to ensure the 
 
 Note: seed files were removed from the repository after executing dbt seed to optimize the runtime of dbt run. These files can be retrieved from [THIS](https://github.com/techindicium/academy-dbt) repository.
 
+
 ## Data Models and Lineage:
 
 The links below provide access to key visualizations, including:
@@ -42,13 +43,24 @@ The links below provide access to key visualizations, including:
 
 [dbt Lineage](https://drive.google.com/file/d/13A3XZsfcFnn6ceJK7t7RHeNhovB2Mvpv/view?usp=sharing): a visualization of the data lineage within the dbt project, illustrating how data flows through the transformation pipeline.
 
-## Power BI Dashboard File
+
+## Power BI Dashboard File:
 
 This Power BI file includes a dashboard designed for Adventure Works:
 
 - **CEO Report**: Focused on high-level managerial insights, providing the CEO with critical data to drive strategic decisions.
 - **Operational Reports**: Detailed views of customer data, order metrics, and serviced regions, supporting operational analysis and decision-making.
 
-Access the file to explore the dashboard and the insights it offers.
+Click [HERE](https://drive.google.com/file/d/1PM196Su0wIPMH0ivgH-Fllx6P-5cO7pG/view?usp=drive_link) to access the file and explore the dashboard and the insights it offers.
 
-https://drive.google.com/file/d/1PM196Su0wIPMH0ivgH-Fllx6P-5cO7pG/view?usp=drive_link 
+
+
+# Project Report:
+
+This report provides a comprehensive overview of the entire data project developed for Adventure Works.
+
+It details each phase of the project, including data modeling, dashboard development, and the integration of various tools and methodologies.
+
+Explore the report to gain insights into the processes and decisions that shaped the final solution.
+
+Click [HERE](https://drive.google.com/file/d/1Nf3E6uGHbLXozzNAYa3AHAizXZQhpfvE/view?usp=sharing) to read the report. 
