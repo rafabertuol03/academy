@@ -31,3 +31,12 @@ All the schemas, tables and interactions can also be checked [HERE](https://raw.
 Each table created within this project undergoes rigorous testing to ensure the highest data quality.
 
 Note: seed files were removed from the repository after executing dbt seed to optimize the runtime of dbt run. These files can be retrieved from [THIS](https://github.com/techindicium/academy-dbt) repository.
+
+## Data Models and Lineage
+The links below provide access to key visualizations, including:
+
+Conceptual Model: a high-level overview of the main entities and their relationships within the project.
+
+Star Schema Model: a representation of the star schema used in the data warehouse, showing the relationships between fact and dimension tables.
+
+dbt Lineage: a visualization of the data lineage within the dbt project, illustrating how data flows through the transformation pipeline.
