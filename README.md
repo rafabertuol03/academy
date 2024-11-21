@@ -32,7 +32,7 @@ Each table created within this project undergoes rigorous testing to ensure the 
 
 Note: seed files were removed from the repository after executing dbt seed to optimize the runtime of dbt run. These files can be retrieved from [THIS](https://github.com/techindicium/academy-dbt) repository.
 
-## Data Models and Lineage
+## Data Models and Lineage:
 
 The links below provide access to key visualizations, including:
 
